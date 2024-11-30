@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 0.8rem;
+    text-align: center;
+    overflow: none;
+}
+
+.Qrwar{
+    
+    width: 100%;
+    max-width: 300px;
+    height: 470px;
+    position: absolute;
+    padding:1rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+img{
+   width:100%;
+    height:65%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    
+}
+p{
+    font-size: 1rem;
+   /* text-align: center; */
+}
